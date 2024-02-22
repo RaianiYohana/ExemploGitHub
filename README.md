@@ -26,3 +26,12 @@ Código (entre crases)
 
 Link:
 [Site do ifc](https://ifc.edu.br/)  
+
+Tabela
+
+Número | Nome | Nota
+- | - | -
+1 | Raiani | 10
+  
+
+
