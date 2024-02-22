@@ -29,9 +29,9 @@ Link:
 
 Tabela
 
-Número | Nome | Nota
-- | - | -
-1 | Raiani | 10
+Número|Nome|Nota
+-|-|-
+1|Raiani|10
   
 
 
